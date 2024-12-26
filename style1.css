@@ -1,0 +1,170 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:"popping",sans-serif;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    
+}
+
+.home:hover{
+    cursor: pointer;
+    -webkit-text-stroke: 1px white;
+    color: black;
+}
+
+body{
+    background: #000;
+    color: white;
+}
+
+
+.heading{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    padding:1rem 2%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logo{
+    font-size:30px;
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 0;
+}
+
+.navbar,a{
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+    margin-left: 4rem;
+    transition: .2s;
+    color:white;
+}
+
+
+section{
+    min-height: 100vh;
+    padding: 10rem 9% 2rem;
+    display: flex;
+
+}
+
+
+
+.CONTACTUS{
+    background-color: aliceblue;
+    color:black;
+}
+
+#contactus{
+    color:black;
+}
+
+
+.dhome{
+    font-size: 90px;
+    margin-left: 20%;
+    text-align: center;
+    line-height: 120px;
+}
+
+.paragraph{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.para{
+    display: inline;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.vtag{
+    margin-bottom: 20px;
+}
+
+.vpara{
+    margin-bottom: 20px;
+}
+
+.se{
+    margin-top: 20px;
+}
+
+.h4skills{
+    margin: 20px;
+}
+
+.h4pp{
+    font-size: 50px;
+    font-weight: bold;
+    line-height:50px;
+    margin-top: 10%;
+}
+
+
+
+.pppp{
+    position: absolute;
+    margin-left: 50%;
+    margin-bottom: 50%;
+}
+
+
+.p2{
+    margin-top: 20px;
+}
+
+
+.p3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.OurDistinctions{
+    position: absolute;
+    text-align: center;
+    margin-left:30%;
+    margin-top: 6%;
+}
+
+.o1{
+    margin-bottom:30px;
+    
+}
+
+.o22{
+    line-height: 25px;
+    
+}
+
+
+
+.c1{
+    color:black;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.c2{
+    color:#000;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.bcontact{
+    margin-top: 20%;
+    line-height: 30px;
+}
